@@ -1,4 +1,3 @@
-// app/api/tables/route.js
 import axios from "axios";
 import https from "https";
 
